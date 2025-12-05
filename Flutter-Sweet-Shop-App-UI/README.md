@@ -46,11 +46,3 @@ Interactive UI Elements:
    flutter run
    ```
 
-## 📚 Resources  
-- [YouTube playlist](https://youtube.com/playlist?list=PLFecs-ae_8FG8O_y6zSL9muONH-iC5kYH&si=pwhuw0HfssxorQ9A)
-- [Figma Design](https://www.figma.com/design/kgbuMUCvaYoMXLRjDxkZ6s/Sweet-Craze?node-id=1-2&t=ynInnRvFPLgl3VuP-1)  
-- [Flutter Documentation](https://flutter.dev)  
-- [Cubit State Management](https://bloclibrary.dev/)  
-
-## 🤝 Contributing  
-Pull requests are welcome!
