@@ -1,7 +1,6 @@
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:flutter_sweet_shop_app_ui/features/home_feature/presentation/bloc/product_state.dart';
 import 'package:flutter_sweet_shop_app_ui/features/home_feature/repo/product_repository.dart';
-import 'package:flutter_sweet_shop_app_ui/data/product_model.dart';
 
 class ProductCubit extends Cubit<ProductState> {
   final ProductRepository repo;

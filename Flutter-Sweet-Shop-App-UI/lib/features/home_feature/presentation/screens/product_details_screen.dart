@@ -1,7 +1,5 @@
-import 'dart:math';
 
 import 'package:flutter/material.dart';
-import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:flutter_sweet_shop_app_ui/core/theme/theme.dart';
 import 'package:flutter_sweet_shop_app_ui/core/utils/sized_context.dart';
 import 'package:flutter_sweet_shop_app_ui/core/widgets/app_button.dart';
@@ -13,7 +11,6 @@ import 'package:flutter_sweet_shop_app_ui/core/widgets/rate_widget.dart';
 import 'package:flutter_sweet_shop_app_ui/features/home_feature/presentation/widgets/user_profile_image.dart';
 import '../../../../core/gen/assets.gen.dart';
 import '../../../../core/theme/dimens.dart';
-import '../../../cart_feature/presentation/bloc/cart_cubit.dart';
 import '../../../../data/sample_data.dart';
 import '../widgets/product_details_app_bar.dart';
 

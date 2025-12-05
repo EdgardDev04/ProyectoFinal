@@ -1,5 +1,4 @@
 import 'package:bloc/bloc.dart';
-import 'package:flutter/widgets.dart';
 import 'package:flutter_sweet_shop_app_ui/data/cart_item_model.dart';
 import 'package:flutter_sweet_shop_app_ui/data/product_model.dart';
 import 'package:flutter_sweet_shop_app_ui/features/cart_feature/repo/cart_repository.dart';

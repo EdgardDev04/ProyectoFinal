@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "name": "Flutter (lib\\main.dart)",
+            "type": "dart",
+            "request": "launch",
+            "cwd": "Flutter-Sweet-Shop-App-UI",
+            "program": "lib\\main.dart"
+        }
+    ]
+}
